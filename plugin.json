@@ -1,0 +1,5 @@
+{
+  "name": "music163",
+  "description": "NetEase Cloud Music playlist automation via reverse-engineered web API",
+  "skills": ["skills/music163-playlist", "skills/music163-export"]
+}
